@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile! 
 Here I uploaded my school work and as well as projects I completed during my free time. 
-I'm curretnly working on some game data analysis project and learning about Azure. 
+I'm curretnly working on some game data analysis project and learning Azure. 
 
 
 🔍 Seeking New Opportunities:
