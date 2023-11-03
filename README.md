@@ -4,7 +4,7 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 ### Skills (Level)
 * Programming languages: Python (3/5)
 * Database management: SQL (5/5)
-* Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib(3/5), Numpy(3/5), Pandas(3/5)
+* Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib, Numpy, Pandas
 * Machine learning framewors: Scikit-learn (3/5)
 
 ### Projects (Complete time)
