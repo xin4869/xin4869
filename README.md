@@ -4,5 +4,9 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 ### Skills (Level)
 * Programming languages: Python (3/5)
 * Database management: SQL (5/5)
-* Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib(3/5)
+* Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib(3/5), Numpy(3/5), Pandas(3/5)
+* Machine learning framewors: Scikit-learn (3/5)
 
+### Projects (Complete time)
+* [Covid-19 vaccine database design (06.2023)](https://github.com/xin4869/covid-19-vaccine-database-design):
+Drew UML diagram to build conceptual data model where entities, attributes and relationships are established. Designed efficient relational database using Postgre SQL. Populated tables using python. Conducted data analysis using both Python and SQL queries. Used Git for team collaboration.
