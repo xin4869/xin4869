@@ -5,7 +5,7 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 * Programming languages: Python (3/5)
 * Database management: SQL (5/5)
 * Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib, Numpy, Pandas
-* Machine learning framewors: Scikit-learn (3/5)
+* Machine learning framewors: Scikit-learn
 
 ### Projects (Complete time)
 * [Covid-19 vaccine database design (06.2023)](https://github.com/xin4869/covid-19-vaccine-database-design):
