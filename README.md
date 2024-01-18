@@ -15,4 +15,4 @@ Cleaned data. Implemented exploratory, descriptive and predictive data analysis 
 
 ### Python programs (Complete time)
 * [Maze game](https://github.com/xin4869/maze_game)(12.2023):
-  A small maze game - The player loses a point for each step, but can gain more points by finding treasures in the maze. Each treasure gives points in accordance with its numerical value. The goal of the game is to reach the exit with as high a score as possible.
+  A small maze game - The player loses a point for each step, but can gain more points by finding treasures in the maze. Each treasure gives points in accordance with its numerical value. The goal of the game is to reach the exit with as high a score as possible. More detailed description can be found [here](https://github.com/xin4869/maze_game/blob/4347ba7a197b46d4214980da7137bb9dab6e1e7a/README.md).
