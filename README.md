@@ -9,7 +9,7 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 
 ### Projects (Complete time)
 * [Covid-19 vaccine database design (06.2023)](https://github.com/xin4869/covid-19-vaccine-database-design):
-Drew UML diagram to build conceptual data model where entities, attributes and relationships are established. Designed efficient relational database using Postgre SQL. Populated tables using python. Conducted data analysis using both Python and SQL queries. Used Git for team collaboration.
+Drew UML diagram to build conceptual data model where entities, attributes and relationships are established. Designed efficient relational database using Postgre SQL. Populated tables using python. Conducted data analysis using both Python and SQL queries. Used Git for team collaboration. More detailed description can be found [here](https://github.com/xin4869/covid-19-vaccine-database-design/blob/eea6e5a8f0fe02da0e7cba669d3d3247a33b1964/README.md).
 * [Mortgage loan approval preidciton (10.2022)](https://github.com/xin4869/mortgage-loan-approaval-prediction):
 Cleaned data. Implemented exploratory, descriptive and predictive data analysis using Python. Evaluated model performance based on confusion matrix, ROC curve, recall score. Improved model performance using feature selection, hyper-parameter tuning and k-fold cross-validation. 
 
