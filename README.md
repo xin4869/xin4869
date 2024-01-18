@@ -14,5 +14,5 @@ Drew UML diagram to build conceptual data model where entities, attributes and r
 Cleaned data. Implemented exploratory, descriptive and predictive data analysis using Python. Evaluated model performance based on confusion matrix, ROC curve, recall score. Improved model performance using feature selection, hyper-parameter tuning and k-fold cross-validation. 
 
 ### Python programs (Complete time)
-* [Maze game]()(12.2023):
+* [Maze game](https://github.com/xin4869/maze_game)(12.2023):
   A small maze game - The player loses a point for each step, but can gain more points by finding treasures in the maze. Each treasure gives points in accordance with its numerical value. The goal of the game is to reach the exit with as high a score as possible.
