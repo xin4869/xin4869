@@ -12,12 +12,14 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
   
 
 ### Projects (Complete time)
+* [Robot cleaner simulation](https://github.com/xin4869/Robot-cleaner-simulation)(04.2024):
+ A robot cleaner simuation done in Python. PyQt is the only exteral library used. You can find details of the program under 'Rules' section when you run it from [main.py](main.py)
 * [Covid-19 vaccine database design](https://github.com/xin4869/covid-19-vaccine-database-design)(06.2023):
 Drew UML diagram to build conceptual data model where entities, attributes and relationships are established. Designed efficient relational database using PostgreSQL. Populated tables using python. Conducted data analysis using both Python and SQL queries. Used Git for team collaboration. More detailed description can be found [here](https://github.com/xin4869/covid-19-vaccine-database-design/blob/eea6e5a8f0fe02da0e7cba669d3d3247a33b1964/README.md).
 * [Mortgage loan approval preidciton](https://github.com/xin4869/mortgage-loan-approaval-prediction)(10.2022):
 Cleaned data. Implemented exploratory, descriptive and predictive data analysis using Python. Evaluated model performance based on confusion matrix, ROC curve, recall score. Improved model performance using feature selection, hyper-parameter tuning and k-fold cross-validation. 
 
-### Python programs (Complete time)
+### Small Python programs (Complete time)
 * [Maze game](https://github.com/xin4869/maze_game)(11.2023):
   A small maze game - The player loses a point for each step, but can gain more points by finding treasures in the maze. Each treasure gives points in accordance with its numerical value. The goal of the game is to reach the exit with as high a score as possible. More detailed description can be found [here](https://github.com/xin4869/maze_game/blob/4347ba7a197b46d4214980da7137bb9dab6e1e7a/README.md).
 
