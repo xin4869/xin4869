@@ -8,7 +8,9 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 * Database management: SQL (5/5)
   - PsotgreSQL
   - MySQL
-* Business Intelligence: Tableau (4/5), PowerBI (3/5)
+* Business Intelligence:
+  - Tableau (4/5)
+  - PowerBI (3/5)
   
 
 ### Projects (Complete time)
