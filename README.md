@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile! I'm an Aalto master student. I majoi in Business Analytics and minor in Computer Science. I enjoy writing codes and developing games. 
+Welcome to my profile! I'm currently doing my master degree at Aalto. I major in Business Analytics and minor in Computer Science. I enjoy writing codes and developing games. 
 
 ### Skills (Level)
 * Programming languages: Python (4/5), C (3/5), C++(4/5), Scala(4/5)
