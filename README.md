@@ -9,6 +9,10 @@ Welcome to my profile! I'm currently doing my master degree at Aalto University.
   
 
 ### Projects (Complete time)
+* [Angry Birds game](https://github.com/xin4869/Angry_Birds)(11-12.2024):
+ A clone of original angry birds game in desktop version. 
+* [Text-based adventure game](https://github.com/xin4869/escape_room_game_text)(11.2024):
+ An escape room type text-based adventure game. Players solve puzzels to collect items and unlock new story plots. 
 * [Robot cleaner simulation](https://github.com/xin4869/Robot-cleaner-simulation)(04.2024):
  A robot cleaner simuation done in Python. PyQt is the only exteral library used. You can find details of the program under 'Rules' section when you run it from [main.py](https://github.com/xin4869/Robot-cleaner-simulation/blob/main/main.py)
 * [Covid-19 vaccine database design](https://github.com/xin4869/covid-19-vaccine-database-design)(06.2023):
