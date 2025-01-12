@@ -8,7 +8,7 @@ Welcome to my profile! I'm a Business Anlaytics master student at Aalto. I'm pas
 * Database management: SQL (5/5)
   - PsotgreSQL
   - MySQL
-* Data visualization: Tableau (4/5), PowerBI (3/5), Matplotlib, Numpy, Pandas
+* Business Intelligence: Tableau (4/5), PowerBI (3/5)
   
 
 ### Projects (Complete time)
