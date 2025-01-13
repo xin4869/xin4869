@@ -26,7 +26,7 @@ Cleaned data. Implemented exploratory, descriptive and predictive data analysis 
 * [Dots and boxes game](https://github.com/xin4869/Dots-and-Boxes-game)(12.2023):
   A python program which creates a dots and boxes game for two players. 
 
-### [machine learning notebooks](https://github.com/xin4869/machine_learning_notebooks)
+### machine learning notebooks ([link](https://github.com/xin4869/machine_learning_notebooks))
 * Revenue sensitivity analysis (Quantile regression)
 * Image classification (Convolutional Neural network - VGG19)
 * Natural language processing - Rating prediction (Naive Bayes Classifier & BERT transformer)
