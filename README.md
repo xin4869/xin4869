@@ -16,7 +16,8 @@ Welcome to my profile! I'm currently doing my master degree at Aalto University.
 * [Robot cleaner simulation](https://github.com/xin4869/Robot-cleaner-simulation)(04.2024):
  A robot cleaner simuation done in Python. PyQt is the only exteral library used. You can find details of the program under 'Rules' section when you run it from [main.py](https://github.com/xin4869/Robot-cleaner-simulation/blob/main/main.py)
 * [Covid-19 vaccine database design](https://github.com/xin4869/covid-19-vaccine-database-design)(06.2023):
-Drew UML diagram to build conceptual data model where entities, attributes and relationships are established. Designed efficient relational database using PostgreSQL. Populated tables using python. Conducted data analysis using both Python and SQL queries. Used Git for team collaboration. More detailed description can be found [here](https://github.com/xin4869/covid-19-vaccine-database-design/blob/eea6e5a8f0fe02da0e7cba669d3d3247a33b1964/README.md).
+Designed a COVID-19 vaccine database to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, and patient data, and for efficient data management and retrieval.
+Performed ETL using SQL and Python.
 * [Mortgage loan approval preidciton](https://github.com/xin4869/mortgage-loan-approaval-prediction)(10.2022):
 Cleaned data. Implemented exploratory, descriptive and predictive data analysis using Python. Evaluated model performance based on confusion matrix, ROC curve, recall score. Improved model performance using feature selection, hyper-parameter tuning and k-fold cross-validation. 
 
