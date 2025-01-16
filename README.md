@@ -10,7 +10,7 @@ Welcome to my profile! I'm currently doing my master degree at Aalto University.
 
 ### Projects (Complete time)
 * [Angry Birds game](https://github.com/xin4869/Angry_Birds)(11-12.2024):
- A clone of original angry birds game in desktop version. 
+ A clone of original angry birds game. Used Box2D and SFML.  
 * [Text-based adventure game](https://github.com/xin4869/escape_room_game_text)(11.2024):
  An escape room type text-based adventure game. Players solve puzzels to collect items and unlock new story plots. 
 * [Robot cleaner simulation](https://github.com/xin4869/Robot-cleaner-simulation)(04.2024):
