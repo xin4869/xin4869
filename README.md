@@ -14,12 +14,12 @@ Welcome to my profile! I'm currently doing my master degree at Aalto University.
 * [Text-based adventure game](https://github.com/xin4869/escape_room_game_text)(11.2024):
  An escape room type text-based adventure game. Players solve puzzels to collect items and unlock new story plots. 
 * [Robot cleaner simulation](https://github.com/xin4869/Robot-cleaner-simulation)(04.2024):
- A robot cleaner simuation done in Python. PyQt is the only exteral library used. You can find details of the program under 'Rules' section when you run it from [main.py](https://github.com/xin4869/Robot-cleaner-simulation/blob/main/main.py)
+ A vacuum cleaning robot simuation. Used PyQt. 
 * [Covid-19 vaccine database design](https://github.com/xin4869/covid-19-vaccine-database-design)(06.2023):
 Designed a COVID-19 vaccine database to keep track of different vaccine types, transportation of vaccine batches, treatment plans, and patient data.
 Performed ETL using SQL and Python.
 * [Mortgage loan approval preidciton](https://github.com/xin4869/mortgage-loan-approaval-prediction)(10.2022):
-Cleaned data. Implemented exploratory, descriptive and predictive data analysis using Python. Evaluated model performance based on confusion matrix, ROC curve, recall score. Improved model performance using feature selection, hyper-parameter tuning and k-fold cross-validation. 
+Predicting whether the mortgage loan application will be approved.
 
 ### Mini programs (Complete time)
 * [Maze game](https://github.com/xin4869/maze_game)(11.2023):
