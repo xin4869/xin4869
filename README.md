@@ -2,7 +2,7 @@
 Welcome to my profile! I'm currently doing my master degree at Aalto University. I major in Business Analytics and minor in Computer Science. I enjoy writing codes and developing games. 
 
 ### Skills (Level)
-* Programming languages: Python (4/5), C (3/5), C++(4/5), Scala(4/5)
+* Programming languages: Python (4/5), C (4/5), C++(4/5), Scala(4/5)
 * Machine learning: fluent in using Scikit-learn, Seaborn, NumPy, Pandas, Matplotlib libraries
 * Database management: SQL (5/5)
 * Business Intelligence: Tableau (4/5), PowerBI (3/5)
