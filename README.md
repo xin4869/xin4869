@@ -3,7 +3,7 @@ Welcome to my profile! I'm currently doing my master degree at Aalto University.
 
 ### Skills (Level)
 * Programming languages: Python (4/5), C (4/5), C++(4/5), Scala(4/5)
-* Machine learning: fluent in using Scikit-learn, Seaborn, NumPy, Pandas, Matplotlib libraries
+* Machine learning: Scikit-learn, Seaborn, NumPy, Pandas, Matplotlib libraries
 * Database management: SQL (5/5)
 * Business Intelligence: Tableau (4/5), PowerBI (3/5)
   
